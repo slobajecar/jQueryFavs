@@ -1,1 +1,9 @@
 This is a collection of my favourite jQuery scripts, snippets, plugins, widgets and all things jQuery specific.
+
+tablesorter
+-----------
+This plugin is used for client-side table sorting but also have a lot of flexibility for CSS classes, additional
+pager plugins, widgets, AJAX support, custom parsers and many more.
+
+More can be found here:
+http://tablesorter.com/docs/
